@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='flweb_mwf_gallery',
-    version='1.0.0',
+    version='1.0.1',
     description='Internal tool to create "Made with FontLab" gallery pages',
     long_description='Internal tool to create "Made with FontLab" gallery pages',
     keywords='',
