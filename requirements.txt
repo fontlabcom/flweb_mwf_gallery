@@ -1,0 +1,5 @@
+Markdown>=3.3.6
+mako
+fire>=0.4.0
+PyYAML
+attrdict3
